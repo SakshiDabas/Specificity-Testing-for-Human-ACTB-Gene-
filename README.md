@@ -8,16 +8,23 @@ Accession Number: NM_001101.5
 Organism: Homo sapiens (Human)
 
 ## Deliverables
+
+<img width="1920" height="770" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/f2f2270b-db92-430f-ad8a-5dc18ab09300" />
+
 <img width="1920" height="910" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/5bdcacb4-53e3-4a01-98dd-c203f1d97355" />
 
 Forward Primer Sequence (5′ →3′): GGGAAATCGTGCGTGACATTA
+
 Reverse Primer Sequence (5′→3′): AGGACTCCATGCCCAGGAA
+
 Melting Temperatures (Tm):
   Forward: 59.00∘C
   Reverse: 60.23∘C
+  
 GC Content:
   Forward: 47.6%
   Reverse: 57.9%
+  
 Expected Product Size: 198 bp
 
 ## Specificity Statement
