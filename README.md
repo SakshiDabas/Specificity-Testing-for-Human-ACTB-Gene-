@@ -2,9 +2,12 @@
 
 ## NGS Primer Design Report: ACTB Gene
 
-Target Gene Information
+Target Gene Information:-
+
 Gene Name: ACTB (Beta-actin)
+
 Accession Number: NM_001101.5
+
 Organism: Homo sapiens (Human)
 
 ## Deliverables
